@@ -3,7 +3,6 @@
 #Get the necessary components
 apt-get update
 apt-get install dwm tightvncserver -y
-apt-get install xfe -y
 apt-get clean
 
 #Setup the necessary files
